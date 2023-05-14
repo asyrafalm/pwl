@@ -7,3 +7,5 @@ Lebih aman digunakan untuk kolaborasi, karena kita bisa tahu apa yang diubah dan
 Bisa memahami cara deploy aplikasi modern;
 Bisa membuat blog dengan SSG.
 dan sebagainya…
+
+**diubah**
